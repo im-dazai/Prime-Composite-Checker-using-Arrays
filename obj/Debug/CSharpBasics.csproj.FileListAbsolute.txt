@@ -1,0 +1,8 @@
+D:\Adobe\Comp 1\VS Saves\CSharpBasics\bin\Debug\CSharpBasics.exe.config
+D:\Adobe\Comp 1\VS Saves\CSharpBasics\bin\Debug\CSharpBasics.exe
+D:\Adobe\Comp 1\VS Saves\CSharpBasics\bin\Debug\CSharpBasics.pdb
+D:\Adobe\Comp 1\VS Saves\CSharpBasics\obj\Debug\CSharpBasics.csproj.AssemblyReference.cache
+D:\Adobe\Comp 1\VS Saves\CSharpBasics\obj\Debug\CSharpBasics.csproj.SuggestedBindingRedirects.cache
+D:\Adobe\Comp 1\VS Saves\CSharpBasics\obj\Debug\CSharpBasics.csproj.CoreCompileInputs.cache
+D:\Adobe\Comp 1\VS Saves\CSharpBasics\obj\Debug\CSharpBasics.exe
+D:\Adobe\Comp 1\VS Saves\CSharpBasics\obj\Debug\CSharpBasics.pdb
